@@ -1,0 +1,235 @@
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\bin\Debug\EZMath.exe.config
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\bin\Debug\EZMath.exe
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\bin\Debug\EZMath.pdb
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.Form1.resources
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.exe
+F:\הנדסת תוכנה פרוייקט יב\EZMath\EZMath\obj\Debug\EZMath.pdb
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\EZMath.exe.config
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\EZMath.exe
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\EZMath.pdb
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.exe
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.pdb
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\BL Project.dll
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\DAL.dll
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\BL Project.pdb
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\BL Project.dll.config
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\DAL.pdb
+D:\SoftwareEngineering\EZMath\EZMath\bin\Debug\DAL.dll.config
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.DifficultyForm.resources
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\EZMath.exe.config
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\EZMath.exe
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\EZMath.pdb
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\BL Project.dll
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\DAL.dll
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\BL Project.pdb
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\BL Project.dll.config
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\DAL.pdb
+E:\SoftwareEngineering\EZMath\EZMath\bin\Debug\DAL.dll.config
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.DifficultyForm.resources
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.exe
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.pdb
+E:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+D:\SoftwareEngineering\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\EZMath.exe.config
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\BL Project.dll
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\DAL.dll
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\BL Project.pdb
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\BL Project.dll.config
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\DAL.pdb
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\bin\Debug\DAL.dll.config
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.DifficultyForm.resources
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\EZMath\EZMath\obj\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe.config
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\DAL.dll
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\BL Project.pdb
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll.config
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\DAL.pdb
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\bin\Debug\DAL.dll.config
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.DifficultyForm.resources
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe.config
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.pdb
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.dll
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.pdb
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll.config
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.pdb
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.dll.config
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.exe
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.pdb
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.InsertGrades.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.pdb
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.dll
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.StatsForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe.config
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.pdb
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.dll
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.pdb
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll.config
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.pdb
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.dll.config
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.InsertGrades.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.StatsForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.exe
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.pdb
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamViewForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamViewForm.resources
+F:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamView.resources
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamView.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamView.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamViewForm.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.InsertGrades.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.StatsForm.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.pdb
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll.config
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.pdb
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\DAL.dll.config
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.exe
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.pdb
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe.config
+D:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe.config
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\EZMath.exe
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\EZMath.pdb
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\DAL.dll
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\BL Project.pdb
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll.config
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\DAL.pdb
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\DAL.dll.config
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamView.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.ExamViewForm.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.InsertGrades.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.StatsForm.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.exe
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\obj\Debug\EZMath.pdb
+C:\Users\dor\Desktop\MathProject\EZMath\EZMath\bin\Debug\BL Project.dll
+E:\SoftwareEngineering\MathProject\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\EZMath.exe.config
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\BL Project.dll
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\DAL.dll
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\BL Project.pdb
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\BL Project.dll.config
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\DAL.pdb
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\DAL.dll.config
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.ExamView.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.ExamViewForm.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.InsertGrades.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.StatsForm.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\Math Project Oriya Shamir\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\EZMath.exe.config
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\EZMath.pdb
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\BL Project.dll
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\DAL.dll
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\BL Project.pdb
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\BL Project.dll.config
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\DAL.pdb
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\bin\Debug\DAL.dll.config
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csprojAssemblyReference.cache
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.AddExForm.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.CreateExam.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.ExamView.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.ExamViewForm.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.InsertGrades.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.LoginForm.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.Properties.Resources.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.StatsForm.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.TeacherMainForm.resources
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csproj.GenerateResource.cache
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csproj.CoreCompileInputs.cache
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.csproj.CopyComplete
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.exe
+C:\Users\Oriya Shamir\Desktop\Oriya-Shamir-Math-Project\EZMath\EZMath\obj\Debug\EZMath.pdb

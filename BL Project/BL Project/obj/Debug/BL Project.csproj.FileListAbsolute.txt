@@ -1,0 +1,67 @@
+E:\הנדסת תוכנה פרוייקט יב\BL Project\BL Project\obj\Debug\BL Project.csprojAssemblyReference.cache
+E:\הנדסת תוכנה פרוייקט יב\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering\BL Project\BL Project\bin\Debug\BL Project.dll.config
+D:\SoftwareEngineering\BL Project\BL Project\bin\Debug\BL Project.dll
+D:\SoftwareEngineering\BL Project\BL Project\bin\Debug\BL Project.pdb
+D:\SoftwareEngineering\BL Project\BL Project\bin\Debug\DAL.dll
+D:\SoftwareEngineering\BL Project\BL Project\bin\Debug\DAL.pdb
+D:\SoftwareEngineering\BL Project\BL Project\bin\Debug\DAL.dll.config
+D:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.csproj.CopyComplete
+D:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.dll
+D:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.pdb
+D:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.csprojAssemblyReference.cache
+E:\SoftwareEngineering\BL Project\BL Project\bin\Debug\BL Project.dll.config
+E:\SoftwareEngineering\BL Project\BL Project\bin\Debug\BL Project.dll
+E:\SoftwareEngineering\BL Project\BL Project\bin\Debug\BL Project.pdb
+E:\SoftwareEngineering\BL Project\BL Project\bin\Debug\DAL.dll
+E:\SoftwareEngineering\BL Project\BL Project\bin\Debug\DAL.pdb
+E:\SoftwareEngineering\BL Project\BL Project\bin\Debug\DAL.dll.config
+E:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.csprojAssemblyReference.cache
+E:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+E:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.csproj.CopyComplete
+E:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.dll
+E:\SoftwareEngineering\BL Project\BL Project\obj\Debug\BL Project.pdb
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll.config
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.pdb
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.dll
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.pdb
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.dll.config
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CopyComplete
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.dll
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.pdb
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.pdb
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.dll
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.pdb
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.dll.config
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CopyComplete
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.pdb
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.pdb
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.dll
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.pdb
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\DAL.dll.config
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CopyComplete
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.pdb
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csprojAssemblyReference.cache
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll.config
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll
+D:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.dll
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\bin\Debug\BL Project.pdb
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\bin\Debug\DAL.dll
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\bin\Debug\DAL.pdb
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\bin\Debug\DAL.dll.config
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CoreCompileInputs.cache
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\obj\Debug\BL Project.csproj.CopyComplete
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\obj\Debug\BL Project.pdb
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll.config
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll
+C:\Users\dor\Desktop\MathProject\BL Project\BL Project\obj\Debug\BL Project.dll
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll.config
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\bin\Debug\BL Project.dll
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.dll
+F:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csprojAssemblyReference.cache
+E:\SoftwareEngineering\MathProject\BL Project\BL Project\obj\Debug\BL Project.csprojAssemblyReference.cache
